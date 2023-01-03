@@ -6,3 +6,11 @@ C:\Users\alita\Desktop\Projects\Practice\C#\Basic Tools\MiniATM\BodyMassIndex\Bo
 C:\Users\alita\Desktop\Projects\Practice\C#\Basic Tools\MiniATM\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.csproj.CoreCompileInputs.cache
 C:\Users\alita\Desktop\Projects\Practice\C#\Basic Tools\MiniATM\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.exe
 C:\Users\alita\Desktop\Projects\Practice\C#\Basic Tools\MiniATM\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.pdb
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.csproj.AssemblyReference.cache
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.csproj.SuggestedBindingRedirects.cache
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.csproj.CoreCompileInputs.cache
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.exe
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.pdb
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\BodyMassIndex\BodyMassIndex\bin\Debug\BodyMassIndex.exe.config
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\BodyMassIndex\BodyMassIndex\bin\Debug\BodyMassIndex.exe
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\BodyMassIndex\BodyMassIndex\bin\Debug\BodyMassIndex.pdb

@@ -16,14 +16,14 @@ namespace BodyMassIndex
                 "Для начала введите вес тела и рост.");
 
             Console.Write("\nВес тела: ");
-            int bodyMass = int.Parse(Console.ReadLine());
+            int bodyMass = Convert.ToInt32(Console.ReadLine());
 
             Console.Write("\nРост: ");
-            int height = int.Parse(Console.ReadLine());
+            double height = Convert.ToDouble(Console.ReadLine());
 
-            int bodyMassIndex = bodyMass / height * height;
+            double bodyMassIndex = bodyMass / (height * height);
 
-            if (bodyMassIndex <= 18)
+            if (bodyMassIndex < 18)
             {
                 Console.WriteLine("\nНиже нормального веса.");
             }
